@@ -69,3 +69,9 @@ body {
     background-image: url('/mound_8.png');
 }
 
+.yeti {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url('/yeti.png');
+}
