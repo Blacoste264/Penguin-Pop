@@ -75,3 +75,43 @@ body {
     float: left;
     background-image: url('/yeti.png');
 }
+
+.penguin1:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+
+.penguin2:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+
+.penguin3:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+
+.penguin4:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+
+.penguin5:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+
+.penguin6:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+
+.penguin7:hover {
+    background-image:url('');
+    cursor: pointer;
+}
+
+.penguin8:hover {
+    background-image:url('');
+    cursor: pointer;
+}
