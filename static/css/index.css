@@ -77,41 +77,41 @@ body {
 }
 
 .penguin1:hover {
-    background-image:url('');
+    background-image:url('mound_1_hover.png');
     cursor: pointer;
 }
 
 .penguin2:hover {
-    background-image:url('');
+    background-image:url('mound_2_hover.png');
     cursor: pointer;
 }
 
 .penguin3:hover {
-    background-image:url('');
+    background-image:url('mound_3_hover.png');
     cursor: pointer;
 }
 
 .penguin4:hover {
-    background-image:url('');
+    background-image:url('mound_4_hover.png');
     cursor: pointer;
 }
 
 .penguin5:hover {
-    background-image:url('');
+    background-image:url('mound_5_hover.png');
     cursor: pointer;
 }
 
 .penguin6:hover {
-    background-image:url('');
+    background-image:url('mound_6_hover.png');
     cursor: pointer;
 }
 
 .penguin7:hover {
-    background-image:url('');
+    background-image:url('mound_7_hover.png');
     cursor: pointer;
 }
 
 .penguin8:hover {
-    background-image:url('');
+    background-image:url('mound_8_hover.png');
     cursor: pointer;
 }
