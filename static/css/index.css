@@ -1,19 +1,19 @@
 body {
     background-color: #ccf5f5;
 }
-
+/*Container*/
 #gameholder {
     width: 600px;
     margin-left: auto;
     margin-right: auto;
 }
-
+/* Main title */
 #title {
     width: 600px;
     height: 150px;
     background-image:url('/penguin_title.png');
 }
-
+/*Penguin mounds*/
 .penguin1 {
     width: 200px;
     height: 200px;
