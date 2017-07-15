@@ -76,6 +76,7 @@ body {
     background-image: url('/yeti.png');
 }
 
+/*Question marks after hover*/
 .penguin1:hover {
     background-image:url('mound_1_hover.png');
     cursor: pointer;
@@ -120,6 +121,7 @@ body {
     background-image:url('penguin_1.png');
 }
 
+/*Penguin images when clicked*/
 .penguin2:active {
     background-image:url('penguin_2.png');
 }
@@ -146,4 +148,9 @@ body {
 
 .penguin8:active {
     background-image:url('penguin_8.png');
+}
+
+/*Yeti image when clicked*/
+.yeti:active {
+    background-image:url('yeti.png');
 }
